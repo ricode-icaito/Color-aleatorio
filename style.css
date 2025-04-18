@@ -10,6 +10,12 @@ body {
   text-align: center;
 }
 
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(223, 27, 27);
+}
+
 .centrar-flex {
   display: flex;
   justify-content: center;
